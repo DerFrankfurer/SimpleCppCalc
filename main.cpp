@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
-#include <cctype> // Für isdigit
-#include <sstream> // Für stringstream
+#include <cctype> 
+#include <sstream> 
 
 int main() {
     std::string input;
